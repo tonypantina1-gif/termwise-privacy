@@ -2,7 +2,7 @@
 
 **Effective date:** 29 October 2026
 
-Termwise helps parents turn school letters, emails and messages into dates, reminders and checklists. It is built so that **we never collect, receive or store your data**. Everything you add stays on your iPhone.
+Termwise is an iPhone app developed and operated by **Faton Pantina** ("we", "us"). It helps parents turn school letters, emails and messages into dates, reminders and checklists. It is built so that **we never collect, receive or store your data**. Everything you add stays on your iPhone.
 
 This policy explains what that means in practice. If anything is unclear, contact us at **aafdigital@proton.me**.
 
@@ -108,4 +108,6 @@ If we change how Termwise handles information, we will update this policy and it
 
 ## Contact
 
-Questions about privacy: **aafdigital@proton.me**
+Termwise is developed by **Faton Pantina**.
+
+Questions about privacy or this policy: **aafdigital@proton.me**
